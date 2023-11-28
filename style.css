@@ -1,0 +1,97 @@
+body{
+    background-image: url(./imagens/Text.png);
+    background-size: 80%;
+    background-repeat:no-repeat;
+    background-position-x: center;
+}
+#menu-horizontal{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+#menu-horizontal ul{
+    list-style: none;
+    background-color: hsl(206, 100%, 57%);
+    border-radius: 25px;
+    padding: 20px;
+    float: left;
+    font-size: 20px;
+}
+#menu-horizontal ul li{
+    display: inline;
+    padding: 10px;
+}
+
+#menu-horizontal ul li a{
+    text-decoration: none;
+    color: hsl(0, 0%, 0%);
+}
+
+#menu-horizontal ul li a:hover{
+    padding: 10px;
+    border-radius:15px;
+    transition-duration: 0.1s;
+
+}
+#Moodle:hover{
+    background-color: rgba(56, 200, 40, 0.808);
+    border-radius: 20px;
+}
+#Suap:hover{
+    background-color: rgb(183, 183, 183);
+    border-radius: 20px;
+}
+#Scratch:hover{
+    background-color: rgb(255, 187, 0);
+    border-radius: 20px;
+}
+#Whats:hover{
+    background-color:rgb(149, 255, 0);
+    border-radius: 20px;
+    padding-inline: 15px;
+}
+#Título{
+    margin-top: 14%;
+    display: flex;
+    justify-content: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(0, 17, 254);
+    font-size: 500%;
+}
+#HMM{
+    padding-top: 15%;
+    padding-left: 2px;
+}
+#HMM:hover{
+   background-image: url(./imagens/Balao.png);
+   background-repeat: no-repeat;
+   background-size: 200px;
+   background-position-x: 170px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
